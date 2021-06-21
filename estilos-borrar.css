@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+form{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin:50px auto;
+	flex-direction: column;
+	background: #dedede;
+	width: 400px;
+	padding: 40px 40px;
+	position: relative;
+}
+.input{
+	padding: 15px 10px;
+	width: 100%;
+	border: none;
+	outline: none;
+	margin-top: 15px;
+	border-radius: 3px;
+}
+textarea{
+	min-width: 320px;
+	max-width: 320px;
+	min-height: 250px;
+	max-height: 250px;
+	margin: 20px;
+	border: none;
+	outline: none;
+	padding: 20px;
+}
+button{
+	padding: 10px 40px;
+	border: none;
+	outline: none;
+}
