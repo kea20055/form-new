@@ -14,14 +14,6 @@ form{
 	padding: 40px 40px;
 	position: relative;
 }
-.input{
-	padding: 15px 10px;
-	width: 100%;
-	border: none;
-	outline: none;
-	margin-top: 15px;
-	border-radius: 3px;
-}
 textarea{
 	min-width: 320px;
 	max-width: 320px;
